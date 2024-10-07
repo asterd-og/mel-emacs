@@ -1,5 +1,5 @@
 # Mel Mode
-EMACS Syntax highlighting for the (Mel)[https://github.com/asterd-og/mel] programming language.
+EMACS Syntax highlighting for the [Mel](https://github.com/asterd-og/mel) programming language.
 
 # How to use
 ```emacs-lisp
